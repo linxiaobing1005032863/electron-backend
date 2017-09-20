@@ -121,7 +121,7 @@ class Home extends React.Component {
             </Menu>
 
         );
-        if (loading) {
+        if (true) {
             return (
                 <Layout>
                     <Sider trigger={null} collapsible collapsed={this.state.collapsed}>

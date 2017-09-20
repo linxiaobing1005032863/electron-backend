@@ -108,7 +108,7 @@ class TableLog extends React.Component {
             total: Math.ceil(this.state.total)
         };
 
-        if (loading) {
+        if (true) {
             return (
                 <div>
                     <Table pagination={pagination} bordered expandedRowRender={record => <p>{record.data}</p>}

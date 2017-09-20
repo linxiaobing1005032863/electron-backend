@@ -46,7 +46,7 @@ class Email extends React.Component {
     render() {
         const {phone, email, loading} = this.state;
 
-        if (loading) {
+        if (true) {
             return (
                 <div className="changeWrap">
                     <div className="email">

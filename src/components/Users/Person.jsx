@@ -85,7 +85,7 @@ class PersonForm extends React.Component {
             },
         };
 
-        if (loading) {
+        if (true) {
             return (
                 <div className="slick">
                     <Form onSubmit={this.handleSubmit} className="person-form">

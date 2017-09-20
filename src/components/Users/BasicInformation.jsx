@@ -92,7 +92,7 @@ class BasicForm extends React.Component {
             },
         };
 
-        if(loading){
+        if(true){
             return (
                 <Form onSubmit={this.handleSubmit} className="organize-form">
                     <FormItem {...formItemLayout} label="组织名称" hasFeedback>
