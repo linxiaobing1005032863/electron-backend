@@ -4,7 +4,7 @@
 这是基于electron与react开发的一个简易后台管理系统，Electron 是 GitHub 发布的跨平台桌面应用开发工具，支持 Web 技术开发桌面应用，其本身是基于 C++ 开发的，GUI 核心来自于 Chrome，而 JavaScript 引擎使用 v8,在electron上可以轻易的跨平台。
 
 本项目技术栈：
-## electron + react + reat-router + react-redux + es6
+## electron + react + reat-router + react-redux + es6 + antd
 
 ## 效果如下：
 
