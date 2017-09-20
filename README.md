@@ -8,8 +8,8 @@
 
 ## 效果如下：
 
-![image](https://github.com/LuoShengMen/electron-backend/public/one.png)
-![image](https://github.com/LuoShengMen/electron-backend/public/one.png)
+![image](https://github.com/LuoShengMen/electron-backend/blob/master/public/one.png)
+![image](https://github.com/LuoShengMen/electron-backend/blob/master/public/one.png)
 
 
 
