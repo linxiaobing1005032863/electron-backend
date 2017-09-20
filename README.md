@@ -28,7 +28,7 @@
  # start
  "start": "react-scripts start",
  
- # 打包文件
+ # 编译文件
 "build": "react-scripts build",
 
 ```
