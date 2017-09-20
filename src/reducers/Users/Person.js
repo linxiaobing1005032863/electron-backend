@@ -1,6 +1,4 @@
-/**
- * Created by chenlizan on 2017/6/24.
- */
+
 
 const initState = {
     account: null

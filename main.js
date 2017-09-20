@@ -1,6 +1,4 @@
-/**
- * Created by chenlizan on 17-6-8.
- */
+
 
 const serve = require('serve');
 const electron = require('electron');
@@ -16,7 +14,7 @@ const path = require('path');
 let mainWindow;
 
 const server = serve(path.join(__dirname, 'build'), {
-    port: 8080,
+    port: 8082,
     ignore: ['node_modules']
 });
 
@@ -30,7 +28,7 @@ function createWindow() {
         }
     });
 
-    mainWindow.loadURL('http://localhost:8080');
+    mainWindow.loadURL('http://localhost:8082');
 
     // Open the DevTools.
     // mainWindow.webContents.openDevTools()

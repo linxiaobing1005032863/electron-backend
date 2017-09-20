@@ -1,6 +1,4 @@
-/**
- * Created by chenlizan on 2017/6/18.
- */
+
 
 import {createStore, combineReducers} from 'redux';
 import Person from '../reducers/Users/Person';

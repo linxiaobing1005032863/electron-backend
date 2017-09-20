@@ -1,6 +1,4 @@
-/**
- * Created by chenlizan on 2017/6/18.
- */
+
 
 import React  from 'react';
 import PropTypes from 'prop-types';

@@ -1,6 +1,4 @@
-/**
- * Created by chenlizan on 2017/6/21.
- */
+
 
 import {authHttpRequest} from '../../utils/httpRequest';
 

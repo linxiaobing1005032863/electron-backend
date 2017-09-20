@@ -1,6 +1,4 @@
-/**
- * Created by chenlizan on 2017/6/18.
- */
+
 
 import {connect} from 'react-redux';
 import Home from '../components/Home';
