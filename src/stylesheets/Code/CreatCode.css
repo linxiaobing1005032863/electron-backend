@@ -1,0 +1,15 @@
+.tab{
+    height: 180px;
+    margin-bottom: 20px;
+}
+.decs{
+    height:120px;
+}
+.codeForm{
+    height: 200px;
+    overflow-y:scroll ;
+}
+.codeDecs{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

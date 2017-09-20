@@ -1,0 +1,125 @@
+
+.customer-form .ant-form-item-control {
+    width: 400px;
+}
+
+.customerBtn {
+    left: 50%;
+}
+
+.ant-select-enabled {
+    margin-right: 10px;
+}
+
+.productWrap {
+    display: inline-block;
+}
+
+.productBox {
+    height: 26px;
+    width: 203px;
+    display: inline-block;
+    border: 1px solid lightgray;
+    background-color: white;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.productPrice {
+    height: 26px;
+    width: 203px;
+    display: inline-block;
+    border: 1px solid lightgray;
+    background-color: white;
+    border-radius: 5px;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+.create{
+    left: 50%;
+    position: absolute;
+}
+
+.select {
+    margin-top: 40px;
+}
+
+.selectRule{
+    margin-bottom: 20px;
+}
+
+.custom{
+    margin-top: 20px;
+}
+.customBox{
+    margin-top: 20px;
+    width: 210px;
+    margin-left: 4px;
+}
+.inputBox{
+    margin-top: 20px;
+}
+
+.product {
+    margin-top: 20px;
+}
+
+.productBtn {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    left: 50%;
+}
+
+.productInfo {
+    overflow-y: scroll;
+    height: 420px;
+    margin-top: -80px;
+}
+
+.productSelect {
+    margin-top: -20px;
+}
+
+.channel {
+    margin-top: -40px;
+    margin-left: 120px;
+}
+
+.channelWrap {
+    display: inline-block;
+}
+
+.channelBox {
+    height: 26px;
+    width: 184px;
+    display: inline-block;
+    border: 1px solid lightgray;
+    background-color: white;
+    border-radius: 5px;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+.channelBtn {
+    margin-top: 40px;
+    left: 40%;
+}
+
+.orderBox {
+    height: 26px;
+    width: 184px;
+    display: inline-block;
+    border: 1px solid lightgray;
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 9px;
+}
+
+.productBtn {
+    margin-right: 200px;
+    margin-left: -141px;
+}
+.productTable{
+    margin-top: 10px;
+}

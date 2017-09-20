@@ -1,0 +1,27 @@
+{
+  /*"extends": "eslint:recommended",*/
+  "plugins": [
+    "react"
+  ],
+  "extends": ["eslint:all", "plugin:react/all"],
+  "parserOptions": {
+    "ecmaVersion": 6, //指定ECMAScript支持的版本，6为ES6
+    "sourceType": "module", //指定来源的类型，有两种”script”或”module”
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "env":{
+    "node":true,
+    "es6":true,
+    "commonjs": true
+  },
+  "rules": {
+    "semi": ["error", "always"],
+    "quotes": "off",
+    "no-console":"off",
+    "no-unused-vars":"off",
+    "no-unreachable":"off",
+    "no-redeclare":"warn"
+  }
+}

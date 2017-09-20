@@ -1,0 +1,28 @@
+.fieldWrap{
+    height: 600px;
+    width: 100%;
+}
+.field{
+    margin-top: 20px;
+}
+.select{
+    margin-right: 40px;
+}
+.fieldBox{
+    width: 200px;
+    margin-right: 61px;
+}
+.typeBtn{
+    margin-left: 20px;
+}
+.codeBtn{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.fieldBtn{
+    margin-top: 20px;
+}
+.tableWrap{
+    height: 200px;
+    overflow-y:scroll ;
+}

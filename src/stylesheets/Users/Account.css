@@ -1,0 +1,18 @@
+
+.account-form{
+    top: 50%;
+    left: 50%;
+    margin: -180px 0 0 -200px;
+    width: 600px;
+    position: absolute;
+}
+.title{
+    position: absolute;
+    left:50%;
+    margin-top: 15px;
+    margin-left: 50px;
+    font-size: 20px;
+}B
+.changetn{
+    margin-left: 100px;
+}

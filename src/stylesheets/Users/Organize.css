@@ -1,0 +1,17 @@
+.organize-form{
+    margin-left: -100px;
+    margin-top: 30px;
+}
+.business-form{
+    overflow-y:scroll ;
+    height: 580px;
+}
+.business-form .ant-form-item-control{
+    width: 400px;
+}
+.organize-form .ant-form-item-control{
+    width: 400px;
+}
+.organize-form Button{
+    margin-left: 120px;
+}

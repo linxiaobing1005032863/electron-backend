@@ -1,0 +1,10 @@
+.register-form{
+    top: 50%;
+    left: 50%;
+    margin: -200px 0 0 -300px;
+    width:600px;
+    position: absolute;
+}
+.register-form .return-button{
+     margin-left: 70px;
+ }
